@@ -75,7 +75,7 @@ img:hover {
 
 .lista {
     text-align: left;
-    margin-left: 45%;
+    margin-left: 40%;
 }
 
 .sin_zoom {
@@ -103,15 +103,15 @@ footer {
 }
 
 footer div a img {
-    transform: none !important;
-    box-shadow: none !important;
+    transform: none ;
+    box-shadow: none ;
 }
 
 form {
+    display: inline-block;
     border-radius: 10px;
     background-color: darkturquoise;
-    padding: 5%;
-    margin: 5% 10%;
+    padding: 2%;
 }
 
 fieldset {
@@ -130,7 +130,7 @@ legend span {
 }
 
 label {
-    font-size: 20px;
+    font-size: x-large;
 }
 
 input[type=text],

@@ -1,2 +1,9 @@
 /* Configuracion de Mobile */
 
+*{
+    font-size: xx-large;
+}
+
+body{
+    display: inline-block;
+}

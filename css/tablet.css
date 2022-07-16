@@ -1,2 +1,9 @@
 /* Configuracion de Tablet */
 
+*{
+    font-size: x-large;
+}
+
+body{
+    display: inline-block;
+}
